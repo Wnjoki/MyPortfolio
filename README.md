@@ -1,3 +1,3 @@
 # MyPortfolio
 
-Created my portfolio App using streamlit
+Created a simple App using streamlit for practice
